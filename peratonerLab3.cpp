@@ -12,7 +12,7 @@ main#include <iostream>
     hello2Function(name2);
     return 0;
   }
-  hello1Function
+
   /*
   * 
   hello1Function.cpp 
